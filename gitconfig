@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = cesarctfv@gmail.com
+	name = Cesar Castagne
